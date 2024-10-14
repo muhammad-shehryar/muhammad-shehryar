@@ -21,6 +21,7 @@ Hi, I'm Muhammad Shaheryar. I'm currently working as a frontend web developer. m
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
 
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/themuhammadshaheryar))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/themuhammadshaheryar)
 [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/YourUsername)
+
 
