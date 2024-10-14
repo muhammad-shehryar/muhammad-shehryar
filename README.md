@@ -22,6 +22,6 @@ Hi, I'm Muhammad Shaheryar. I'm currently working as a frontend web developer. m
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/themuhammadshaheryar)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/YourUsername)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)]([https://github.com/YourUsername](https://github.com/muhammad-shehryar))
 
 
