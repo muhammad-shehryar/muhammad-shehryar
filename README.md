@@ -5,7 +5,7 @@
 🎓 BSCS | Frontend Web Developer | Passionate About Building Innovative Websites  
 🌱 Actively Learning & Building Projects  
 ⚙️ Tech Stack: Tailwind CSS, JavaScript, React.js, Next.js, MERN Stack  
-📫 Email: sairabatoool787@gmail.com  
+📫 Email: muhammadshaheryar50@gmail.com 
 
 ## About Me  
 Hi, I'm Saira Batool. I'm currently studying Full Stack Web and Mobile App Development... [continue your bio here].
