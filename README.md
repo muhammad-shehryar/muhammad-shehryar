@@ -8,7 +8,7 @@
 📫 Email: muhammadshaheryar50@gmail.com 
 
 ## About Me  
-Hi, I'm Saira Batool. I'm currently studying Full Stack Web and Mobile App Development... [continue your bio here].
+Hi, I'm Muhammad Shaheryar. I'm currently working as a frontend web developer. my expertise are react and nextjs .
 
 ## Tech Stack
 - HTML, CSS, JavaScript  
