@@ -1,6 +1,6 @@
 <img src="https://your-image-link.jpg" alt="Profile Picture" width="200"/>
 
-# Hi, I'm Saira Batool 👋
+# Hi, I'm Muhammad Shaheryar👋
 
 🎓 BSCS | Frontend Web Developer | Passionate About Building Innovative Websites  
 🌱 Actively Learning & Building Projects  
