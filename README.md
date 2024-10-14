@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="https://your-image-link.jpg" alt="Profile Picture" width="200"/>
 
-<!--
-**muhammad-shehryar/muhammad-shehryar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Saira Batool 👋
 
-Here are some ideas to get you started:
+🎓 BSCS | Frontend Web Developer | Passionate About Building Innovative Websites  
+🌱 Actively Learning & Building Projects  
+⚙️ Tech Stack: Tailwind CSS, JavaScript, React.js, Next.js, MERN Stack  
+📫 Email: sairabatoool787@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+Hi, I'm Saira Batool. I'm currently studying Full Stack Web and Mobile App Development... [continue your bio here].
+
+## Tech Stack
+- HTML, CSS, JavaScript  
+- React, Next.js  
+- MongoDB, Express, Node.js  
+- Tailwind CSS
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/YourProfile)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/YourUsername)
+
